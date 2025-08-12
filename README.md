@@ -1,3 +1,4 @@
+# Moringa School AI Capstone Project -Vue.js Beginner's ToolKit and Simple App
 # Getting Started with Vue.js – A Beginner's Interactive Todo App Guide
 
 ## 1. Title & Objective
